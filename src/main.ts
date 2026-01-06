@@ -6,5 +6,3 @@ import './task-5';
 import './task-6';
 import './task-7';
 import './task-8';
-
-// Entrée unique — les modules ci-dessus exécutent leur logique à l'import
